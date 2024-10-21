@@ -1,4 +1,4 @@
-import numpy as np
+import os.path
 from typing import Any, Dict, List, Optional, Tuple
 from docetl.operations.base import BaseOperation
 
