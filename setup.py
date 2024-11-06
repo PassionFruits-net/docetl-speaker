@@ -7,13 +7,13 @@ setup(
     name = "docetl-speaker",
     description = "",
     install_requires = [
-        "tts-wrapper @ git+https://github.com/redhog/tts-wrapper.git"
+        "tts-wrapper @ git+https://github.com/PassionFruits-net/tts-wrapper.git"
     ],
     version = "0.0.1",
     author = "Egil Moeller",
     author_email = "redhog@redhog.org",
     license = "GPL",
-    url = "https://github.com/redhog/docetl-speaker",
+    url = "https://github.com/PassionFruits-net/docetl-speaker",
     packages = find_packages(),
     entry_points = {
         "docetl.operation": [
